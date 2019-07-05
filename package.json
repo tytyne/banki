@@ -1,0 +1,22 @@
+{
+  "name": "holla",
+  "version": "1.0.0",
+  "main": "home.js",
+  "scripts": {
+    "start": "node home.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flora",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "devDependencies": {},
+  "description": "example is cool",
+  "keywords": [
+    "example"
+  ]
+}
